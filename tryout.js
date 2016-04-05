@@ -259,7 +259,7 @@ function btnbdo() {
   }
 }
 <!--bgs-->
-function btnbdo() {
+function btnbgs() {
   var text = document.getElementById("bgs").value;
   var ifr = document.createElement("iframe");
   ifr.setAttribute("frameborder", "0");
